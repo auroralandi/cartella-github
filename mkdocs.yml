@@ -43,3 +43,7 @@ markdown_extensions:
   - pymdownx.snippets
   - pymdownx.superfences
   
+nav:
+- Biografia: index.md
+- Documentazione:
+   - 10feb/10feb.md
